@@ -1,0 +1,5 @@
+# Données générées et notes internes — jamais publiées
+briefings/
+data/
+__pycache__/
+*.pyc
